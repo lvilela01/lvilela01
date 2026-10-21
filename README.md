@@ -15,15 +15,11 @@ Coffee and Code ☕
 <p align="left">
   <a href="https://www.linkedin.com/in/lvilela01/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="28" align="center" alt="LinkedIn" />
-  </a>
-  <a href="https://www.linkedin.com/in/lvilela01/" target="_blank">
-    &nbsp;<b>LinkedIn</b>
+    <b>LinkedIn</b>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lrvilelab@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/outlook.svg" width="28" height="28" align="center" alt="Contact" />
-  </a>
-  <a href="mailto:lrvilelab@hotmail.com" target="_blank">
-    &nbsp;<b>Contact.me</b>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-outlook.svg" width="28" height="28" align="center" alt="Contact" />
+    <b>Contact.me</b>
   </a>
 </p>
