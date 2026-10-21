@@ -18,6 +18,6 @@ Coffee and Code ☕
   </a>
   &nbsp;&nbsp;
   <a href="mailto:lrvilelab@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/email/default.svg" width="40" height="40" alt="E-mail" />
+    <img src="https://api.iconify.design/fluent:mail-24-filled.svg?color=%230078d4" width="40" height="40" alt="E-mail" />
   </a>
 </p>
