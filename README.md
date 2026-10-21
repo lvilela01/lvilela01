@@ -12,11 +12,5 @@ Focado em aprimorar continuamente as minhas competências técnicas.
 
 Coffee and Code ☕
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lvilela01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:lrvilelab@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Contact.me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contact Me">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lvilela01/)
+[![Contact Me](https://img.shields.io/badge/Contact.me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lrvilelab@hotmail.com)
