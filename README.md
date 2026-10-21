@@ -12,12 +12,14 @@ Focado em aprimorar continuamente as minhas competências técnicas.
 
 Coffee and Code ☕
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/lvilela01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="26" align="center" alt="LinkedIn" />
+    <b> LinkedIn</b>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lrvilelab@hotmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="40" height="40" alt="E-mail" />
+    <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-24.svg" width="26" height="26" align="center" alt="Contact" />
+    <b> Contact.me</b>
   </a>
 </p>
