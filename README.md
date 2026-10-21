@@ -14,9 +14,9 @@ Coffee and Code ☕
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lvilela01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lrvilelab@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Contact.me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Contact Me">
+    <img src="https://img.shields.io/badge/Contact.me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contact Me" />
   </a>
 </div>
