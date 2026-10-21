@@ -19,7 +19,7 @@ Coffee and Code ☕
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lrvilelab@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-outlook.svg" width="28" height="28" align="center" alt="Contact" />
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_outlook.svg" width="28" height="28" align="center" alt="Contact" />
     <b>Contact.me</b>
   </a>
 </p>
