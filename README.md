@@ -12,7 +12,7 @@ Focado em aprimorar continuamente as minhas competências técnicas.
 
 Coffee and Code ☕
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/lvilela01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
