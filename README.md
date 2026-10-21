@@ -12,14 +12,4 @@ Focado em aprimorar continuamente as minhas competências técnicas.
 
 Coffee and Code ☕
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lvilela01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="28" align="center" alt="LinkedIn" />
-    <b>LinkedIn</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:lrvilelab@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_email.svg" width="28" height="28" align="center" alt="Contact" />
-    <b>Contact.me</b>
-  </a>
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/lvilela01/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="28" align="middle" alt="LinkedIn" /></a>&nbsp;&nbsp;<b>LinkedIn</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:lrvilelab@hotmail.com" target="_blank"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/email.svg" width="28" height="28" align="middle" alt="Contact" /></a>&nbsp;&nbsp;<b>Contact.me</b></p>
