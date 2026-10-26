@@ -6,7 +6,7 @@ Atualmente trabalho como Analista de Qualidade em uma gráfica e estou em migra�
 
 **Tech Stack que utilizo e aprimoro diariamente:** React, TypeScript, Tailwind, Express.js, Bcrypt, Zod, Prisma e Docker.
 
-**🎯 No meu radar de estudos atuais:** Consumo de APIs REST (Axios) e gestão de estado no cliente.
+`**🎯 No meu radar de estudos atuais:** Consumo de APIs REST (Axios) e gestão de estado no cliente.`
 
 Focado em aprimorar continuamente as minhas competências técnicas.
 
